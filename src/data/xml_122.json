@@ -1,0 +1,71 @@
+{
+    "campaign": {
+        "id":122,
+        "name": "Xml_Upward_1",
+        "publisher": "Upward",
+        "createdAt": "01-12-2021",
+        "editedAt": "02-12-2021"
+    },
+    "generic":[
+        {
+            "id": 1,
+            "company": "Amazon",
+            "cpc": 4.12,
+            "updatedAt":"03-12-2021",
+            "type":"generic"
+        },
+        {
+            "id": 21,
+            "company": "Aldi",
+            "cpc": 2.12,
+            "updatedAt":"04-01-2021",
+            "type":"generic"
+        },
+        {
+            "id": 13,
+            "company": "Burger King",
+            "cpc": 2.31,
+            "updatedAt":"03-23-2021",
+            "type":"generic"
+        },
+        {
+            "id": 231,
+            "company": "Chick-fil-A",
+            "cpc": 0.34,
+            "updatedAt":"12-01-2020",
+            "type":"generic"
+        },
+        {
+            "id": 19,
+            "company": "Costco",
+            "cpc": 1.34,
+            "updatedAt":"06-03-2021",
+            "type":"generic"
+                
+        }
+    ],
+    "dynamic":[
+        {
+            "id": 56,
+            "company": "Aldi",
+            "cpc": 2.12,
+            "updatedAt":"04-01-2021",
+            "type":"dynamic"
+        },
+        {
+            "id": 242,
+            "company": "Coca Cola",
+            "cpc": 0.34,
+            "updatedAt":"12-01-2020",
+            "type":"dynamic"
+        },
+        {
+            "id": 17,
+            "company": "Amazon",
+            "cpc": 1.34,
+            "updatedAt":"06-03-2021",
+            "type":"dynamic"
+                
+        }
+    ]
+}
